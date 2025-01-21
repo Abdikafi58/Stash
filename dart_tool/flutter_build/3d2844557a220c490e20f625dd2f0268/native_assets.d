@@ -1,0 +1,1 @@
+ C:\\stashapp\\.dart_tool\\flutter_build\\3d2844557a220c490e20f625dd2f0268\\native_assets.yaml: 
